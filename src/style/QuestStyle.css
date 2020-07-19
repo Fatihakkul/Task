@@ -1,0 +1,97 @@
+
+   
+
+.questions {
+    color: black;
+    font-weight: 700;
+    margin-top: 25%;
+   
+}
+.container {
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0%; 
+    padding: 0;
+    box-sizing: border-box;
+    align-self: center;
+
+}
+.answerContainer {
+    display: flex;
+    flex-direction: row;
+}
+.answers {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  
+    
+  
+}
+
+.nextOrbefore {
+    padding: 25px;
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.NextZero {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: flex-end;
+}
+.UserResults {
+    width: 750px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.ResultText {
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+    flex-direction: column;
+}
+.Text {
+    font-size: larger;
+    font-weight: bold;
+    opacity: 0.5;
+}
+.ResultListContainer {
+    display: flex;
+    width: 100%;
+    height: 75%;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.Login {
+   
+    width: 100%;
+    height: 100vh;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0%; 
+    padding: 0;
+    box-sizing: border-box;
+    align-self: center;
+}
+.Input {
+   margin-bottom: 25px;
+}
+
+
