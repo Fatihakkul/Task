@@ -51,6 +51,7 @@ const Login =props=>{
             <input  className="Input" placeholder="isim giriniz..." value={userName} onChange={userNameAdd}/>
             <Link to="/Questions">  
                 <button type="button" className="btn btn-success" onClick={goPage}>Başla</button>
+                
             </Link>
            
         </div>
